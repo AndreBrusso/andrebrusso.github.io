@@ -38,7 +38,7 @@
     flex-direction: column;
     gap: 40px;
     padding: 20px;
-    background: #038d75;
+    background: #000000;
     
   }
 
@@ -46,7 +46,7 @@
     padding: 0px;
   }
   .header a {
-    background: #17dbb8;
+    background: #141414;
     border-radius: 4px;
   }
 }
